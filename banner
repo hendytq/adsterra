@@ -1,0 +1,8 @@
+	atOptions = {
+		'key' : '7af231746eb53e7861488edd0ab5b793',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.effectivecreativeformats.com/7af231746eb53e7861488edd0ab5b793/invoke.js"></scr' + 'ipt>');
